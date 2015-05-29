@@ -1,4 +1,4 @@
-# yeobot-pull-from-temper1-push-to-csv
+# yeobot--pull-from-temper1-push-to-csv
 
 ## Statement
 From a Raspberry Pi, pull temperature data from a USB Temper1 temperature sensor, do this every {{number}} seconds and push it to a CSV {{filename}} onto your USB drive.
